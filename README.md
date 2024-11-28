@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Byspll7 other name Amin
+- 👋 Hi, I’m @Byspll7 
 - 👀 I’m interested in web and database programming
 - 🌱 I’m currently learning .Net architecture
 
